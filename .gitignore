@@ -1,0 +1,38 @@
+# macOS
+.DS_Store
+
+# Xcode user state
+*.xcuserstate
+xcuserdata/
+*.xcuserdatad/
+
+# Build output
+DerivedData/
+build/
+*.xcarchive
+*.dSYM
+
+# Distribution artifacts
+dist/
+*.dmg
+*.zip
+
+# Local/generated project notes
+FILE_TREE.txt
+
+# Local design scratch files
+copy_clip_logo_template2.png
+clip_pocket_logo_template*.svg
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# Environment and local tooling
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log

@@ -1,0 +1,19 @@
+name: macOS Build
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: Build ClipPocket
+    runs-on: macos-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build Debug
+        run: xcodebuild -project apps/mac/ClipPocket.xcodeproj -scheme ClipPocket -configuration Debug build
