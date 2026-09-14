@@ -4,6 +4,14 @@ ClipPocket is a tiny native macOS clipboard utility that keeps useful copied tex
 
 It is built as a native Mac app, lives in the menu bar, and is designed around a simple promise: your clips stay on your Mac.
 
+## See It in Action
+
+Search, filter, pin and copy text from a local clipboard history.
+
+![Clip Pocket step-by-step demo](docs/media/demo.gif)
+
+[View the screenshots and walkthrough](docs/demo.md). Real native UI with fictional sample data; the GIF is a sequence of captured screenshots. This is an early prototype, not a production-release announcement.
+
 ## Status
 
 ClipPocket is an early public codebase for a local-first macOS clipboard app. The current app target is a text-based first version, not a finished production release.
