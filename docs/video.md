@@ -2,6 +2,8 @@
 
 The product walkthrough uses actual native macOS UI captures with fictional sample data. Cursor movement, click highlights, zooms and transitions are added in editing; the timing is paced for readability. This is an edited demonstration, not an uninterrupted screen recording.
 
+https://github.com/user-attachments/assets/b55612fe-3112-498f-9f99-7ba27b592608
+
 ## Playback format
 
 - Resolution: 1920 × 1080 (16:9).
