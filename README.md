@@ -8,9 +8,9 @@ It is built as a native Mac app, lives in the menu bar, and is designed around a
 
 Search, filter, pin and copy text from a local clipboard history.
 
-![Clip Pocket step-by-step demo](docs/media/demo.gif)
+https://github.com/user-attachments/assets/b55612fe-3112-498f-9f99-7ba27b592608
 
-[View the screenshots and walkthrough](docs/demo.md). Real native UI with fictional sample data; the GIF is a sequence of captured screenshots. This is an early prototype, not a production-release announcement.
+[View the screenshots and walkthrough](docs/demo.md). Full HD video at 60 fps, with smooth cursor movement and focused zooms. Real native UI with fictional sample data; motion and timing are edited for clarity. [Video details](docs/video.md).
 
 ## Status
 

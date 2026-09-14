@@ -2,7 +2,7 @@
 
 Search, filter, pin and copy text from a local clipboard history.
 
-![Step-by-step product demo](media/demo.gif)
+https://github.com/user-attachments/assets/b55612fe-3112-498f-9f99-7ba27b592608
 
 ## 1. Browse clipboard history
 
@@ -36,7 +36,7 @@ A pinned launch checklist appears under Pinned.
 
 ## About these captures
 
-Captured on 2026-09-14 from the native macOS app. Each GIF frame uses a real screenshot, with explanatory captions outside the app window. It is a step-by-step walkthrough, not a continuous screen recording.
+Captured on 2026-09-14 from the native macOS app. The video uses real UI captures with animated cursor movement, click highlights, focused zooms and paced transitions. It is an edited product walkthrough, not an uninterrupted screen recording. The static gallery below the video shows the original screenshot walkthrough. [Encoding and playback details](video.md).
 
 Source snapshot: [`3489607`](https://github.com/testerwebu/clip-pocket/tree/3489607f908b9b25671942cd1e085ff9eccabbc9).
 
